@@ -1,3 +1,6 @@
+#Home Look
+![homePic](https://github.com/Mr-AtulGhisali07/CurrencyConverter/assets/138815682/971c5d7f-8a64-4329-8233-c63594c47de8)
+
 # Currency Converter App using React.js
 
 A Currency Converter project is a project that uses JavaScript, React.js, Tailwind, and HTML. 
